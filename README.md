@@ -10,6 +10,8 @@ Google Document Link: ______________
 
 ---
 
+This document is written in a language called Markdown, which is similar to HTML or other text-formatting languages. A helpful cheat sheet for Markdown is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## INITIAL DESIGN PLAN:
 
 Design a plan which meets the computational requirements to solve the problem. Your plan does not need to be syntactically correct. It needs to capture the flow of logic in a human readable format.
