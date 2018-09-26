@@ -1,11 +1,10 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your names
-# Username: heggens             TODO: Change this to your usernames
+# Author: Scott Heggen & Emily Lovell     TODO: Change this to your names
+# Username: heggens & lovelle            TODO: Change this to your usernames
 #
-# Assignment: T6: Funky Functions
+# Assignment: A05: The Game of Nim
 # Purpose:  Some functions to play around with and understand return values
 #           This function sings you the willaby wallaby children's song
-#
 ######################################################################
 # Acknowledgements:
 #   Original Author: Dr. Scott Heggen

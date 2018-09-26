@@ -1,8 +1,8 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your names
-# Username: heggens             TODO: Change this to your usernames
+# Author: Emily Lovell & Scott Heggen      TODO: Change this to your names
+# Username: lovelle & heggens             TODO: Change this to your usernames
 #
-# Assignment: A5: The Game of Nim
+# Assignment: A05: The Game of Nim
 #
 # Purpose: This program is designed to demonstrate the use of Boolean functions
 # and the modulus (%) operator which gives the remainder following a division
