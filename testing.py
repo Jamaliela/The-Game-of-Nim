@@ -61,16 +61,17 @@ def player_2_turn(num_balls):
     """
     This function divides the number of balls remaining by 5 with modulus so that the computer ends up winning by always taking the remainder of the division.
     :param num_balls: integer. number of balls that changes as user and computer pick
-    :return: None
+    :return: num_balls
     """
 
-    player2 = num_balls % 5
-    if player2 == 0:
-        player2 = random.randrange(1, 4)
-    num_balls = num_balls - player2
-    # print("The computer takes", player2, "balls")
-    # print("there are", num_balls, "left")
+    player2 = num_balls % 5                             # modulus to calcuate how many balls for the computer to pick
+    if player2 == 0:                                    # if the result from modulus is 0 then something else happens
+        player2 = random.randrange(1, 4)                # a random number is assigned to player2
+    num_balls = num_balls - player2                     # recalculating the number of balls after the computer picks
+    # print("The computer takes", player2, "balls")       # telling user how many balls they pick
+    # print("there are", num_balls, "left")               # telling user how many balls are remaining
     return num_balls
+
 
 def main():
     """
